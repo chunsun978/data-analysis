@@ -1,0 +1,13 @@
+jedi
+jupyter
+nltk
+mumpy
+pandas
+PyQt5
+python-dateutil
+python-twitter
+pytz
+sip
+six
+SQLAlchemy
+
